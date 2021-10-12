@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Various projects**
 
-- 🌱 I’m currently learning **Javascript and Objective C**
+- 🌱 I’m currently learning **Express**
 
-- 👯 I’m looking to collaborate on **any project that helps reinforce basics and learn more advanced skills!**
+- 👯 I’m looking to collaborate on **A Chess API!**
 
-- 🤝 I’m looking for help with **developing advanced techniques**
+- 🤝 I’m looking for help with **Using cloud resources to power a bot performance power**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JowelAmmons](https://github.com/JowelAmmons)
 
 - 💬 Ask me about **Cyber Security!**
 
-- 📫 How to reach me **jowel.ammons@gmail.com**
+- 📫 How to reach me **https://twitter.com/J_TheDev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jowelammons/](https://www.linkedin.com/in/jowelammons/)
 
