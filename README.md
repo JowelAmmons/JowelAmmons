@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jowelammons&label=Profile%20views&color=0e75b6&style=flat" alt="jowelammons" /> </p>
 
-- 🔭 I’m currently working on **Various projects**
+- 🔭 I’m currently working on **LiChess.org customizations**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **A Chess API!**
 
-- 🤝 I’m looking for help with **Using cloud resources to power a bot performance power**
+- 🤝 I’m looking for help with **Using cloud resources to power a Chess Bot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JowelAmmons](https://github.com/JowelAmmons)
 
