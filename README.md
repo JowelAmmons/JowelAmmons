@@ -1,25 +1,4 @@
-<h1 align="center">Hi 🤓, I'm J</h1>
-<h3 align="center">A passionate cyber security specialist who can develop!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jowelammons&label=Profile%20views&color=0e75b6&style=flat" alt="jowelammons" /> </p>
-
-- 🔭 I’m currently working on **LiChess.org customizations**
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **A Chess API!**
-
-- 🤝 I’m looking for help with **Using cloud resources to power a Chess Bot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JowelAmmons](https://github.com/JowelAmmons)
-
-- 💬 Ask me about **Cyber Security!**
-
-- 📫 How to reach me **https://twitter.com/J_TheDev**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jowelammons/](https://www.linkedin.com/in/jowelammons/)
-
-- ⚡ Fun fact **I love to play Chess**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?JowelAmmons=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />*
 
 
 <h3 align="left">Languages and Tools:</h3>
