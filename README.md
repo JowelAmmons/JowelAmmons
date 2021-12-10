@@ -2,6 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/89389822/145604420-f6c662de-ea80-4240-9c78-cbd65d8d5bd5.png)
 
+Just like the turtles, I am one of 4 brothers who grew up in the City of Brotherly Love. I am a software engineer by trade and a stimulating mentor at heart. My mentors have always expressed to pay their teachings forward and I made it my life mention to help anyone who is in need. Technology helps me fulfill my mission by connecting me with individuals across many boarders. With the help of technology I am able to convey key points to ultimately inspire my community as a whole to pay it forward and help the next person in need. I always wanted to learn how to code and felt the road to being a true programmer has passed me fate led me to <a href="http://www.resilientcoders.org/"> The Resilient Coders Orgnizations</a>. Their mission and purpose aligned with my goals; with a lot of resiliency, perseverance, dedication and grit. I became a software engineer.
+
+My chess background started when I was the age of ten and met my first mentor. His favorite saying was <em>"You are the first of many"</em>. I never gave up playing and always worked hard to break the ceilings I created for myself. It didnt take long before I realized that I have a natural talent to play this critical thinking game. As I got older, I noticed the next generation of youth admiring and always edgar to watch me play on the board. Taking note, I decided to learn how to give instruction while adding my own special twist. I am an educator using the board with 64 squares and endless possibilities to teach those who watch that you can accomplish any task with a well thought out plan!
+
+Below our my tech skills:
+
+Feel free to connect with me if you have any questions or are interested in the game that deepens your creative vision. 
+
+<a href="https://www.linkedin.com/in/jowelammons/">Linkedin</a>
+<a href="https://twitter.com/J_TheDev">Twitter</a>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JowelAmmons&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
