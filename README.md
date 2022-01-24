@@ -6,7 +6,7 @@ Just like the turtles, I am one of 4 brothers who grew up in the City of Brother
 
 My chess background started when I was the age of ten and met my first mentor. His favorite saying was <em>"You are the first of many"</em>. I never gave up playing and always worked hard to break the ceilings I created for myself. It didnt take long before I realized that I have a natural talent to play this critical thinking game. As I got older, I noticed the next generation of youth admiring and always edgar to watch me play on the board. Taking note, I decided to learn how to give instruction while adding my own special twist. I am an educator using the board with 64 squares and endless possibilities to teach those who watch that you can accomplish any task with a well thought out plan!
 
-Below our my tech skills:
+Below are my tech skills:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
